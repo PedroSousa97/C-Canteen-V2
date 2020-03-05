@@ -1,0 +1,11 @@
+﻿  Functions.cpp
+c:\users\henri\source\repos\cantina2\cantina2\functions.cpp(117): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\henri\source\repos\cantina2\cantina2\functions.cpp(133): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\henri\source\repos\cantina2\cantina2\functions.cpp(151): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Origem.cpp
+c:\users\henri\source\repos\cantina2\cantina2\origem.cpp(17): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\henri\source\repos\cantina2\cantina2\origem.cpp(328): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\henri\source\repos\cantina2\cantina2\origem.cpp(491): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\henri\source\repos\cantina2\cantina2\origem.cpp(538): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+  Gerando Código...
+  Cantina2.vcxproj -> C:\Users\henri\source\repos\Cantina2\Debug\Cantina2.exe
