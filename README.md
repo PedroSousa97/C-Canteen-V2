@@ -29,8 +29,8 @@ The program also contains some interactions and options for manipulating data fr
 ### Notes
 
 The development of this project includes:
-*Implementation of main data structures ( linked lists, binary trees, rows );
-*Implementation of main sorting algorithms;
+* Implementation of main data structures ( linked lists, binary trees, rows );
+* Implementation of main sorting algorithms;
 * Extraction of data from a text file, used to create random user names and courses;
 
 ## Authors
